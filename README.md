@@ -3,7 +3,7 @@
 
 I'm Sarah, a Computer Science major passionate about Web development, AI, and open source.
 
-🚀 **Skills**: JavaScript, React, C++, SQL, etc.
+🚀 **Skills**: HTML, CSS, JavaScript, React, C++, SQL, Flask.
 
 💬 **Connect with me**:
 - [LinkedIn](https://www.linkedin.com/in/sarah-saiyed0/)
