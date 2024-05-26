@@ -13,3 +13,4 @@ I'm Sarah, a Computer Science major passionate about Web development, AI, and op
 
 ⚡ **Fun fact**: I'm an enthusiastic self-taught inline skater!
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sarahtoninwrites)](https://git.io/streak-stats)
