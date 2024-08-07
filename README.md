@@ -4,6 +4,7 @@
 I'm Sarah, a Computer Science major passionate about Web development, AI, and open source.
 
 🚀 **Web Dev**: HTML, CSS, JavaScript, React, C++, SQL, Flask.
+
 🚀 **App Dev**: Swift, Flutter.
 
 
