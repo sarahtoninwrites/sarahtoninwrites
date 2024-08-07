@@ -3,7 +3,9 @@
 
 I'm Sarah, a Computer Science major passionate about Web development, AI, and open source.
 
-🚀 **Skills**: HTML, CSS, JavaScript, React, C++, SQL, Flask.
+🚀 **Web Dev**: HTML, CSS, JavaScript, React, C++, SQL, Flask.
+🚀 **App Dev**: Swift, Flutter.
+
 
 💬 **Connect with me**:
 - [LinkedIn](https://www.linkedin.com/in/sarah-saiyed0/)
