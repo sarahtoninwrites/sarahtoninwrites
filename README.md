@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm Sarah, a Computer Science major passionate about Web development, AI, and open source.
+I'm Sarah, a computer science major passionate about software development and machine learning.
 
 🚀 **Web Dev**: HTML, CSS, JavaScript, React, C++, SQL, Flask.
 
