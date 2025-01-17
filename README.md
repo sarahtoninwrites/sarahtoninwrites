@@ -8,7 +8,7 @@ I'm Sarah, a computer science major passionate about software development and ma
 - [Website](https://sarahtoninwrites.github.io/sarahtonin/prof.html)
 
 
-📫 Feel free to reach out to me via email at [sarahsaiyedwrite@email.com] to collaborate!
+📫 Feel free to reach out to me via email at [sarahsaiyedwrite@gmail.com] to collaborate!
 
 ⚡ **Fun fact**: I'm an enthusiastic self-taught inline skater!
 
