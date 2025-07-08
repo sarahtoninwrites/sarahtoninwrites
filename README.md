@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm Sarah, a computer science major passionate about software development and machine learning.
+I'm Sarah, a computer science major passionate about software and game development.
 
 💬 **Connect with me**:
 - [LinkedIn](https://www.linkedin.com/in/sarah-saiyed0/)
