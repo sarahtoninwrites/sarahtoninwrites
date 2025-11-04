@@ -10,5 +10,4 @@ I'm Sarah, a computer science major passionate about software and game developme
 
 📫 Feel free to reach out to me via email at [sarahsaiyedwrite@gmail.com] to collaborate!
 
-⚡ **Fun fact**: I'm an enthusiastic self-taught inline skater!
 
