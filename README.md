@@ -10,6 +10,3 @@ You can explore more of my Game Development projects on [Itch.io](https://saraht
 - [Website](https://sarahtoninwrites.github.io/sarahtonin/index.html)
 
 
-📫 Feel free to reach out to me via email at [sarahsaiyedwrite@gmail.com] to collaborate!
-
-
